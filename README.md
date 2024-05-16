@@ -21,7 +21,7 @@
  Automatically configure Spring and third party libraries
  Provides production ready features such as health checks, metrics, etc.
  No code generation, No XML configuration.
- <img width="560" alt="Screenshot 2024-05-13 192820ss" src="https://github.com/anjalikhushi/CloudVendor-RESTful-API/assets/82653640/cd686c49-8f2a-4661-90ad-c3bff6f28b4a">
+ <img width="650" alt="Screenshot 2024-05-13 192820ss" src="https://github.com/anjalikhushi/CloudVendor-RESTful-API/assets/82653640/cd686c49-8f2a-4661-90ad-c3bff6f28b4a">
 # Cloud Vendor API is further evolved and junit test cases are written for all 3 layers i.e. controller layer , service layer and repository layer. All layers are unit tested using junit, assertj, mockito, h2database and springframework test package . Code coverage method is also demonstrated in this session. Software testing expected from java developers is explained here.
 Unit Testing is mandatory task to perform in java projects from every Java developer. Unit testing java projects helps to enhance java code quality and prevents java spring boot application from bugs. This tutorial will be helpful for backend developers and also for full stack developers.
 # JUNIT -
@@ -42,17 +42,17 @@ It improves test code readability, and is designed to be super easy to use withi
  Used as In-Memory Database
  Spring Boot can auto-configure embedded H2 databases. 
  # Unit Testing
-<img width="534" alt="test" src="https://github.com/anjalikhushi/CloudVendor-RESTful-API/assets/82653640/6f5ee9a8-0d14-49bc-a98d-1e99ddce1e31">
+<img width="650" alt="test" src="https://github.com/anjalikhushi/CloudVendor-RESTful-API/assets/82653640/6f5ee9a8-0d14-49bc-a98d-1e99ddce1e31">
 
-<img width="525" alt="test1" src="https://github.com/anjalikhushi/CloudVendor-RESTful-API/assets/82653640/c0645bd2-7d28-4889-84aa-5230fa293e2f">
+<img width="650" alt="test1" src="https://github.com/anjalikhushi/CloudVendor-RESTful-API/assets/82653640/c0645bd2-7d28-4889-84aa-5230fa293e2f">
 
 # Swagger API Documentation
 
 API Documentation is essential part of any REST API application. Swagger addresses the burning problem of api developers and cuts down the pain of manual documentation and auto generates the required api documentation. Swagger generates document for Java Spring Boot REST ASPI application automatically.
 
-<img width="573" alt="swagger" src="https://github.com/anjalikhushi/CloudVendor-RESTful-API/assets/82653640/6fa106b5-79a5-4007-8634-985771b81192">
+<img width="650" alt="swagger" src="https://github.com/anjalikhushi/CloudVendor-RESTful-API/assets/82653640/6fa106b5-79a5-4007-8634-985771b81192">
 
-<img width="542" alt="swagger2" src="https://github.com/anjalikhushi/CloudVendor-RESTful-API/assets/82653640/e214fe13-42fc-4554-917f-272497a94f5f">
+<img width="650" alt="swagger2" src="https://github.com/anjalikhushi/CloudVendor-RESTful-API/assets/82653640/e214fe13-42fc-4554-917f-272497a94f5f">
 
 # Spring boot Actuator
 
@@ -65,8 +65,8 @@ Spring boot actuator is very helpful for building production ready spring boot a
 4. Dependency - “spring-boot-starter-actuator”
 5. HTTP base endpoint - /actuator
 
-<img width="570" alt="actuator1" src="https://github.com/anjalikhushi/CloudVendor-RESTful-API/assets/82653640/d32f2ac9-f91f-41d8-9828-9cfffa25ab05">
-<img width="536" alt="actuator" src="https://github.com/anjalikhushi/CloudVendor-RESTful-API/assets/82653640/47b6effd-8e1e-4aae-a92a-9d3494e19624">
+<img width="650" alt="actuator1" src="https://github.com/anjalikhushi/CloudVendor-RESTful-API/assets/82653640/d32f2ac9-f91f-41d8-9828-9cfffa25ab05">
+<img width="650" alt="actuator" src="https://github.com/anjalikhushi/CloudVendor-RESTful-API/assets/82653640/47b6effd-8e1e-4aae-a92a-9d3494e19624">
 
 
 
