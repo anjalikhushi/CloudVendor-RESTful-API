@@ -3,15 +3,16 @@
  Session for Controller Layer operations - Create, Read, Update and Delete.
  Exception handling is essential for small to large applications.
  APIs must have exceptions handled properly for giving proper response back to client.
+ 
 # Some Key points for REST API - 
  REST APIs also called as RESTful APIs
 # REST = Representational State Transfer 
 # API = Application Programming Interface
-# REST is a set of architectural constraints, not a protocol or a standard. API developers can implement REST in a variety of ways
-# A REST API is an application programming interface that follows the constraints of REST architectural style and allows for interaction with RESTful web services
-# REST APIs work over HTTP
-# Delivers information using any one of the following formats - 
-# JSON (Most popular) ,  Text , HTML , XML , Javascript and more 
+  REST is a set of architectural constraints, not a protocol or a standard. API developers can implement REST in a variety of ways
+  A REST API is an application programming interface that follows the constraints of REST architectural style and allows for interaction with RESTful web services
+  REST APIs work over HTTP
+  Delivers information using any one of the following formats - 
+  JSON (Most popular) ,  Text , HTML , XML , Javascript and more 
 
 #Spring Boot Key points -
 @SpringBootApplication for starting
@@ -21,9 +22,13 @@
  Automatically configure Spring and third party libraries
  Provides production ready features such as health checks, metrics, etc.
  No code generation, No XML configuration.
+
+ 
  <img width="650" alt="Screenshot 2024-05-13 192820ss" src="https://github.com/anjalikhushi/CloudVendor-RESTful-API/assets/82653640/cd686c49-8f2a-4661-90ad-c3bff6f28b4a">
-# Cloud Vendor API is further evolved and junit test cases are written for all 3 layers i.e. controller layer , service layer and repository layer. All layers are unit tested using junit, assertj, mockito, h2database and springframework test package . Code coverage method is also demonstrated in this session. Software testing expected from java developers is explained here.
+ 
+Cloud Vendor API is further evolved and junit test cases are written for all 3 layers i.e. controller layer , service layer and repository layer. All layers are unit tested using junit, assertj, mockito, h2database and springframework test package . Code coverage method is also demonstrated in this session. Software testing expected from java developers is explained here.
 Unit Testing is mandatory task to perform in java projects from every Java developer. Unit testing java projects helps to enhance java code quality and prevents java spring boot application from bugs. This tutorial will be helpful for backend developers and also for full stack developers.
+
 # JUNIT -
 Unit testing framework for Java and its frameworks. 
 JUnit 5 is the next generation of JUnit. 
@@ -66,6 +71,8 @@ Spring boot actuator is very helpful for building production ready spring boot a
 5. HTTP base endpoint - /actuator
 
 <img width="650" alt="actuator1" src="https://github.com/anjalikhushi/CloudVendor-RESTful-API/assets/82653640/d32f2ac9-f91f-41d8-9828-9cfffa25ab05">
+
+
 <img width="650" alt="actuator" src="https://github.com/anjalikhushi/CloudVendor-RESTful-API/assets/82653640/47b6effd-8e1e-4aae-a92a-9d3494e19624">
 
 
