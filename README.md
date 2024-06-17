@@ -5,6 +5,7 @@
  APIs must have exceptions handled properly for giving proper response back to client.
  
 # Some Key points for REST API - 
+
  REST APIs also called as RESTful APIs
 # REST = Representational State Transfer 
 # API = Application Programming Interface
