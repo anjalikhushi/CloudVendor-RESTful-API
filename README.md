@@ -24,7 +24,7 @@
  No code generation, No XML configuration.
 
  
- <img width="650" alt="Screenshot 2024-05-13 192820ss" src="https://github.com/anjalikhushi/CloudVendor-RESTful-API/assets/82653640/cd686c49-8f2a-4661-90ad-c3bff6f28b4a">
+ <img width="1400" alt="Screenshot 2024-05-13 192820ss" src="https://github.com/anjalikhushi/CloudVendor-RESTful-API/assets/82653640/cd686c49-8f2a-4661-90ad-c3bff6f28b4a">
  
 Cloud Vendor API is further evolved and junit test cases are written for all 3 layers i.e. controller layer , service layer and repository layer. All layers are unit tested using junit, assertj, mockito, h2database and springframework test package . Code coverage method is also demonstrated in this session. Software testing expected from java developers is explained here.
 Unit Testing is mandatory task to perform in java projects from every Java developer. Unit testing java projects helps to enhance java code quality and prevents java spring boot application from bugs. This tutorial will be helpful for backend developers and also for full stack developers.
